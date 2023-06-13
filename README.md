@@ -1,6 +1,7 @@
 # Platform-Potentials
 
-Github Link: 
+Github Link: https://github.com/JYJODIO/Platform-Potentials_An-intervention
+
 An intervention: Project proposal for a digital platform on public participation and environmental protection
 
 Eco Aware is a digital platform designed to engage and empower citizens to collect and share data on local environmental issues and to take collective action to influence policy and decision-making. 
